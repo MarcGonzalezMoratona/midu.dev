@@ -25,7 +25,7 @@ Pero, **¿Realmente es necesario siempre usar una dependencia para conseguir lo 
 
 Esto le da al usuario más información que si le ofrecemos la fecha sin ningún tipo de formateo y así le proporcionamos al visitante una forma sencilla de entender cómo de **actualizada** es la información que le estamos proporcionando.
 
-En sitios como **Instragram, Twitter, Facebook** o incluso blogs, se ofrece este sistema. Normalmente las unidades llegan hasta días. Si lleva más de una semana entonces ya simplemente se muestra la fecha en concreto.
+En sitios como **Instagram, Twitter, Facebook** o incluso blogs, se ofrece este sistema. Normalmente las unidades llegan hasta días. Si lleva más de una semana entonces ya simplemente se muestra la fecha en concreto.
 
 ## Cómo crear tu propio TimeAgo con Javascript 👷‍♀️
 
